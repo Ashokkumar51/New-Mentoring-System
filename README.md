@@ -97,7 +97,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## Contact
 
-For any questions or suggestions, please contact [yourname@yourdomain.com](mailto:soutapalliab@gmail.com).
+For any questions or suggestions, please contact (mailto:soutapalliab@gmail.com).
 
 ---
 
